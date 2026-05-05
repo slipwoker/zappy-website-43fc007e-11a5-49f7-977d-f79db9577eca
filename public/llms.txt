@@ -1,0 +1,78 @@
+# חדשות הבידוק — Generative Engine Optimization Map
+
+> A news and media website called 'Biduk News' (חדשות הבידוק) focused on security inspection and auditing content. The platform aims to cover all aspects of security inspection (בידוק ביטחוני), serving as a dedicated news hub for this specific field in Israel.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חדשות הבידוק הוא המקור המוביל לחדשות ביטחון ישראל בתחום הבידוק הביטחוני. עדכונים שוטפים, ניתוחים מעמיקים ותוכן מקצועי — הכל במקום אחד. הצטרפו עכשיו!
+
+### כיסוי
+https://example.com/coverage
+גלו את הכיסוי התקשורתי המעמיק ביותר בתחום הבידוק הביטחוני בישראל. עדכונים בתחום הביטחון הלאומי, דיווחים שוטפים וניתוח מקצועי שמביא את התמונה המלאה. קראו עכשיו!
+
+### אודות
+https://example.com/about
+הכירו את חדשות הבידוק — הפלטפורמה הייחודית שהוקמה כדי להביא ניתוח מודיעיני וביטחוני ישראל ברמה הגבוהה ביותר. מי אנחנו, מה מניע אותנו ולמה אנחנו שונים מכולם?
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם צוות חדשות הבידוק ושתפו טיפים, עדכונים ומידע בתחום חדשות ביטחון ישראל. אנחנו כאן להקשיב, לחקור ולדווח. פנו אלינו עכשיו ונחזור אליכם בהקדם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חדשות הבידוק
+A news and media website called 'Biduk News' (חדשות הבידוק) focused on security inspection and auditing content. The platform aims to cover all aspects of security inspection (בידוק ביטחוני), serving as a dedicated news hub for this specific field in Israel.
+
+## Target Audience
+- מומחי אבטחה
+- קובעי מדיניות
+- חוקרים אקדמיים
+
+## Industry
+מדיה וחדשות - ביטחון
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
