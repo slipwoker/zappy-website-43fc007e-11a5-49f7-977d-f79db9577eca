@@ -26,6 +26,26 @@ https://example.com/contact
 https://example.com/articles
 חדשות הבידוק - נהלי בידוק בנקודות מעבר והרפורמה בנמלי התעופה הישראליים
 
+### מגזין חדשות הבידוק
+https://example.com/blog
+חדשות הבידוק - מגזין חדשות הבידוק
+
+### שיקוף CT
+https://example.com/blog/ct-airport-screening
+סקירה מעשית על המעבר למערכות CT, אוטומציה בניתוח תמונה והשפעתן על מהירות, דיוק וחוויית הנוסע.
+
+### מעברי גבול
+https://example.com/blog/smart-border-screening
+ניתוח של האתגרים המרכזיים במעברי גבול מודרניים והקשר בין זרימת קהל, טכנולוגיה, תיאום אנושי ורגישות מבצעית.
+
+### הכשרת בודקים
+https://example.com/blog/security-training-evolution
+למה תוכניות הכשרה מסורתיות כבר אינן מספיקות, ואילו כלים חדשים נדרשים כדי להכין צוותי בידוק למציאות דינמית.
+
+### פרטיות ואבטחה
+https://example.com/blog/privacy-vs-security-screening
+מאחורי כל מערך בידוק מתקדם עומדות גם שאלות של אמון, שקיפות, שמירת מידע וגבולות השימוש בטכנולוגיה.
+
 ## Legal & Policy
 
 ### Privacy Policy
